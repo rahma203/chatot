@@ -1,0 +1,8 @@
+langchain
+os
+PyPDF2
+streamlit
+google.generativeai
+chromadb
+faiss-cpu
+aspose-pdf
